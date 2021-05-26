@@ -1,6 +1,6 @@
 # pandas_exercises
 
-# 목차:
+## 목차:
 1. Getting & Knowing your data
 2. Flitering & Sorting
 3. Grouping
